@@ -8,8 +8,6 @@
 "Hi, I'm Daniel! Glad to meet you! I’m currently a PhD student @ Iowa State, majoring in Industrial Engineer."
 >>> Me.name
 ('Daniel Ye', 'Yifei Ye','叶逸飞')
->>> Me.pronouns
-['He/him']
 >>> Me.interest
 ['Data Science','Machine learning','Statistical/Bayesian inference']
 >>> Me.fact
