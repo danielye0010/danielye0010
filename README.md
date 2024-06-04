@@ -5,14 +5,14 @@
 ## "Know thyself" - Socrates
 ```python
 >>> import Me
-"Hi, I'm Daniel! Glad to meet you! I’m currently a PhD student @ Iowa State, majoring in Industrial Engineer"
+"Hi, I'm Daniel! Glad to meet you! I’m currently a PhD student @ Iowa State, majoring in Industrial Engineer."
 >>> Me.name
 ('Daniel Ye', 'Yifei Ye','叶逸飞')
 >>> Me.pronouns
 ['He/him']
 >>> Me.interest
 ['Data Science','Machine learning','Statistical/Bayesian inference']
->>> Me.fun_fact
+>>> Me.fact
 ['ELITE 3-pt shooter🏀', 'Novice Powerlifter💪']
 ```
 ## "Check my stats" - Kingjames
