@@ -1,17 +1,16 @@
 # <center> Daniel Ye
 
-![image](https://github.com/danielye1999/danielye1999/assets/115088089/9a40c213-2549-42a9-a3cf-24acc28daf0a)
-
 ## "Know thyself" - Socrates
 ```python
 >>> import Me
-"Hi, I'm Daniel! Glad to meet you! I’m currently a PhD student @ Iowa State, majoring in Industrial Engineer."
+"Hi, I'm Daniel. Glad to meet you! I’m currently a PhD student @ Iowa State, majoring in Industrial Engineering.
+Prior to joining the Ph.D. program, I completed a Bachelor’s in Statistics from the University of Minnesota Duluth and a Master’s in the same field from the University of Wisconsin-Madison."
 >>> Me.name
-('Daniel Ye', 'Yifei Ye','叶逸飞')
+('Daniel Ye', 'Yifei Ye')
 >>> Me.interest
-['Data Science','Machine learning','Statistical/Bayesian inference']
+['Deep Neural Network','Statistical Inference & learning']
 >>> Me.fact
-['ELITE 3-pt shooter🏀', 'Novice Powerlifter💪']
+['ELITE 3-pt Shooter🏀', 'Intermediate Powerlifter💪']
 ```
 ## "Check my stats" - Kingjames
 [![danielye1999's GitHub | Stats](https://stats.quine.sh/danielye1999/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=danielye1999)
