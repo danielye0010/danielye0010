@@ -1,5 +1,6 @@
+![welcome-header](https://github.com/danielye0010/danielye0010/assets/115088089/5d76adae-886d-4b3f-bfa9-213c7537865a)
 # <center> Daniel Ye
-
+More about me: https://danielye0010.github.io/
 ## "Know thyself" - Socrates
 ```python
 >>> import Me
