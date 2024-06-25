@@ -1,6 +1,5 @@
 ![welcome-header](https://github.com/danielye0010/danielye0010/assets/115088089/5d76adae-886d-4b3f-bfa9-213c7537865a)
 # <center> Daniel Ye
-More about me: https://danielye0010.github.io/
 ## "Know thyself" - Socrates
 ```python
 >>> import Me
@@ -14,7 +13,8 @@ More about me: https://danielye0010.github.io/
 ```
 ## "Check my stats" - Kingjames
 [![danielye1999's GitHub | Stats](https://stats.quine.sh/danielye1999/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=danielye1999)
-
+## More about me
+https://danielye0010.github.io/
 ## Languages and Tools:
 
 <p align="left">
