@@ -13,7 +13,7 @@
 ```
 ## "Check my stats" - Kingjames
 [![danielye1999's GitHub | Stats](https://stats.quine.sh/danielye1999/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=danielye1999)
-## More about me
+## More about me →
 https://danielye0010.github.io/
 ## Languages and Tools:
 
