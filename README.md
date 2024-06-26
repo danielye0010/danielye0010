@@ -12,7 +12,9 @@
 ['ELITE 3-pt Shooter🏀', 'Intermediate Powerlifter💪']
 ```
 ## "Check my stats" - Kingjames
-[![danielye1999's GitHub | Stats](https://stats.quine.sh/danielye1999/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=danielye1999)
+[![danielye0010's GitHub | Stats](https://stats.quine.sh/danielye0010/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=danielye0010)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielye0010&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 ## More about me →
 https://danielye0010.github.io/
 ## Languages and Tools:
