@@ -28,3 +28,9 @@ https://danielye0010.github.io/
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/matlab-0078D7.svg?&style=for-the-badge&logo=MATLAB&logoColor=white" height="25"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielye0010/danielye0010/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielye0010/danielye0010/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/danielye0010/danielye0010/output/github-contribution-grid-snake.svg">
+</picture>
