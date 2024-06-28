@@ -3,7 +3,7 @@
 ## "Know thyself" - Socrates
 ```python
 >>> import Me
-"Hi, I'm Daniel. Glad to meet you! I’m currently a PhD student @ Iowa State, majoring in Industrial Engineering."
+"Hi, I'm Daniel! I’m a PhD student @ Iowa State, majoring in Industrial Engineering."
 >>> Me.name
 ('Daniel Ye', 'Yifei Ye')
 >>> Me.interest
