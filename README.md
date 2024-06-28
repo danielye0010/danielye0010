@@ -8,8 +8,6 @@
 ('Daniel Ye', 'Yifei Ye')
 >>> Me.interest
 ['Deep Neural Network','Statistical Inference & learning']
->>> Me.fact
-['ELITE 3-pt Shooter🏀', 'Intermediate Powerlifter💪']
 ```
 ## "Check my stats" - Kingjames
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielye0010&layout=compact)
