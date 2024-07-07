@@ -10,7 +10,7 @@
 ['Deep Neural Network','Statistical Inference & learning', 'Play with my bunny']
 ```
 ## "Check my stats" - Kingjames
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielye0010&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielye0010&layout=compact&hide=Tex)
 
 ## Contribution Sanke↓ 
 <picture>
