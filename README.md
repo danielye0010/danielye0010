@@ -7,7 +7,7 @@
 >>> Me.name
 ('Daniel Ye', 'Yifei Ye')
 >>> Me.interest
-['Geometric algorithms', 'Optimization','Statistical Inference & learning']
+['Deep Learning', 'Optimization','Statistical Inference & learning']
 ```
 ## "Check my stats" - Kingjames
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielye0010&layout=compact&hide=Tex)
