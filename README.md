@@ -5,7 +5,7 @@
 >>> import Me
 "Hi, I'm Daniel! I’m a PhD student @ Iowa State, majoring in Industrial Engineering."
 >>> Me.name
-('Daniel Ye', 'Yifei Ye')
+('Daniel Ye')
 >>> Me.interest
 ['Deep Learning', 'Optimization','Statistical Inference & Learning']
 ```
