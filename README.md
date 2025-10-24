@@ -20,7 +20,59 @@
 </picture>
 
 ## More about me →
-https://danielye0010.github.io/
+<pre>
+It began as a question,
+and ended as awareness.
+Knowledge appeared like a trace—
+the residue of thought
+on the skin of the world.
+
+I once believed I was mastering research;
+in truth, research was mastering me.
+Each act of understanding
+rewrote the one who understood.
+
+I once believed diligence could reach truth,
+that conclusions could secure certainty.
+I learned instead that thought offers no answers—
+it only dismantles
+the one who asks.
+
+Anxiety was not failure;
+it was the threshold
+where awareness remade itself.
+I watched order collapse—
+thought rose again from the ruins.
+
+Growth was not expansion,
+but enduring
+what understanding destroys.
+
+The end of thought
+is not a conclusion—
+it is the stillness
+that knows itself.
+
+In the end, the researcher learns not mastery,
+but how to dwell within thought.
+  
+If every act of research
+is Being attempting to know itself,
+then who am I—
+the thinker or the thought?
+Or were they never divided?
+  
+Perhaps the meaning of thought
+lies only in that instant of awareness.
+In the moment
+when Being thought through me,
+I understood—
+I was free.
+</pre>
+
+
+
+
 
 ## Languages and Tools:
 
