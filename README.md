@@ -27,8 +27,8 @@ Knowledge appeared like a trace—
 the residue of thought
 on the skin of the world.
 
-I once believed I was mastering research;
-in truth, research was mastering me.
+I once believed I was mastering thought;
+in truth, it was mastering me.
 Each act of understanding
 rewrote the one who understood.
 
@@ -53,10 +53,10 @@ is not a conclusion—
 it is the stillness
 that knows itself.
 
-In the end, the researcher learns not mastery,
+In the end, the thinker learns not mastery,
 but how to dwell within thought.
   
-If every act of research
+If every act of thought
 is Being attempting to know itself,
 then who am I—
 the thinker or the thought?
