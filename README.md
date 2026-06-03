@@ -9,9 +9,6 @@
 >>> Me.interest
 ["Physical AI", "Spatial Intelligence", "Advanced Manufacturing"]
 ```
-## "Check my stats" - Kingjames
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielye0010&layout=compact&hide=Tex)
-
 ## Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielye0010/danielye0010/output/github-contribution-grid-snake-dark.svg">
